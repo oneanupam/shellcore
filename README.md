@@ -1,4 +1,4 @@
-# Bash Script Lab
+# ShellCore
 
 This repository contains a collection of sample Bash scripts for learning and practicing shell scripting.
 
